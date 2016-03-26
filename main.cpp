@@ -14,7 +14,5 @@ int main(int argc, char** argv)
 	decryptage();
 	
 	printf("linfert@Edwend:~$ %s", message);
-	printf("LOLILOL\n");
-	printf("Troisième version putain\n", );
 	return 0;
 }
